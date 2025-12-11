@@ -4,4 +4,4 @@ Used Logism Evolution to design a CPU, created a custom Assembly Language, and a
 Check out "MF-CPU User Manual.pdf" to learn how the CPU works and how to use it.
 
 Worked with Vedhesh Kamaraj
- - Github: 
+ - Github: https://github.com/Vedhesh29
